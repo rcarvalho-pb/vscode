@@ -1,0 +1,225 @@
+!SESSION 2022-09-23 23:22:54.408 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Command-line arguments:  -data /home/ramon/.config/Code/User/workspaceStorage/a2a1e2aad99c6f541ad03a39fdc15cf3/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:58.571
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:58.956
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:59.062
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:59.066
+!MESSAGE Initializing Java Language Server 1.15.0.202208311536
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:59.275
+!MESSAGE Setting java.home /home/ramon/.asdf/installs/java/openjdk-17.0.2 as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:59.344
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:59.391
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:59.439
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:59.599
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:02.113
+!MESSAGE Workspace initialized in 2738ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:02.157
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:02.161
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:02.165
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:02.172
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:02.186
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:02.267
+!MESSAGE Creating the Java project SpringProject_cde9840c
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:02.364
+!MESSAGE Finished creating the Java project SpringProject_cde9840c
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:02.510
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:02.511
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:03.943
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:03.955
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:03.960
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:03.988
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:04.392
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:06.246
+!MESSAGE begin problem for /CursomcApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:06.247
+!MESSAGE 0 problems reported for /CursomcApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:06.257
+!MESSAGE Validated 1. Took 1464 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:14.376
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:30.924
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:30.931
+!MESSAGE Clearing problems for /CursomcApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:53.253
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:53.270
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:53.271
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:53.273
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:53.649
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:53.830
+!MESSAGE begin problem for /CursomcApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:53.831
+!MESSAGE 0 problems reported for /CursomcApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:53.831
+!MESSAGE Validated 1. Took 108 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:54.332
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:55.145
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:24:00.651
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:24:00.654
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:24:00.711
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:24:00.731
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2022-09-24 13:07:56.897 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Command-line arguments:  -data /home/ramon/.config/Code/User/workspaceStorage/a2a1e2aad99c6f541ad03a39fdc15cf3/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:02.901
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:03.572
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:03.751
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:03.757
+!MESSAGE Initializing Java Language Server 1.15.0.202208311536
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:03.895
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:06.327
+!MESSAGE Workspace initialized in 2500ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:06.376
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:06.395
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:06.401
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:06.406
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:06.432
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:08.931
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:08.952
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:08.959
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:09.026
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:09.057
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:09.320
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:09.730
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:11.263
+!MESSAGE begin problem for /CategoriaResource.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:11.264
+!MESSAGE 0 problems reported for /CategoriaResource.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:11.274
+!MESSAGE Validated 1. Took 1552 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:11.317
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:17.562
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:19.897
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:19.900
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:20.285
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-24 13:08:20.374
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

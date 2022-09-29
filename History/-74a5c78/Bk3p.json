@@ -1,0 +1,7 @@
+// Coloque as suas associações de teclas neste arquivo para substituir os padrõesauto[]
+[
+    {
+        "key": "ctrl+'",
+        "command": "workbench.action.terminal.newInActiveWorkspace"
+    }
+]

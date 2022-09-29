@@ -1,0 +1,60 @@
+!SESSION 2022-09-23 23:22:26.958 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Command-line arguments:  -data /home/ramon/.config/Code/User/workspaceStorage/d8ed0a92b84e5c24058b020a896cd4a8/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:31.316
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:31.716
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:31.851
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:31.855
+!MESSAGE Initializing Java Language Server 1.15.0.202208311536
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:32.079
+!MESSAGE Setting java.home /home/ramon/.asdf/installs/java/openjdk-17.0.2 as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:32.139
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:32.180
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:32.285
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:32.440
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:34.754
+!MESSAGE Workspace initialized in 2575ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:35.071
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:35.087
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:35.092
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:22:35.102
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:11.389
+!MESSAGE Parent process stopped running, forcing server exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:11.391
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-09-23 23:23:11.413
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+
+!ENTRY org.eclipse.core.resources 2 10035 2022-09-23 23:23:11.465
+!MESSAGE The workspace will exit with unsaved changes in this session.

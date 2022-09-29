@@ -1,0 +1,40 @@
+{
+  message: "Use the JDK from 'asdf' as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2022-09-23 23:10:32.420'
+}
+{
+  message: 'Starting Java server with: /home/ramon/.vscode/extensions/redhat.java-1.10.0-linux-x64/jre/17.0.4-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:jni+resolve=off -javaagent:/home/ramon/.vscode/extensions/redhat.java-1.10.0-linux-x64/lombok/lombok-1.18.24.jar -jar /home/ramon/.vscode/extensions/redhat.java-1.10.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/ramon/.config/Code/User/globalStorage/redhat.java/1.10.0/config_ss_linux -data /home/ramon/.config/Code/User/workspaceStorage/bff27f1fd2b939f7f1b979f2b764fe55/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2022-09-23 23:10:32.549'
+}
+{
+  message: 'Starting Java server with: /home/ramon/.vscode/extensions/redhat.java-1.10.0-linux-x64/jre/17.0.4-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:jni+resolve=off -javaagent:/home/ramon/.vscode/extensions/redhat.java-1.10.0-linux-x64/lombok/lombok-1.18.24.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/ramon/.config/Code/User/workspaceStorage/bff27f1fd2b939f7f1b979f2b764fe55/redhat.java -jar /home/ramon/.vscode/extensions/redhat.java-1.10.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/ramon/.config/Code/User/globalStorage/redhat.java/1.10.0/config_linux -data /home/ramon/.config/Code/User/workspaceStorage/bff27f1fd2b939f7f1b979f2b764fe55/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2022-09-23 23:10:34.094'
+}
+{
+  message: '[Error - 23:10:47] Connection to server got closed. Server will not be restarted.',
+  level: 'info',
+  timestamp: '2022-09-23 23:10:47.999'
+}
+{
+  message: "Use the JDK from 'asdf' as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2022-09-23 23:19:45.749'
+}
+{
+  message: 'Starting Java server with: /home/ramon/.vscode/extensions/redhat.java-1.10.0-linux-x64/jre/17.0.4-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:jni+resolve=off -javaagent:/home/ramon/.vscode/extensions/redhat.java-1.10.0-linux-x64/lombok/lombok-1.18.24.jar -jar /home/ramon/.vscode/extensions/redhat.java-1.10.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/ramon/.config/Code/User/globalStorage/redhat.java/1.10.0/config_ss_linux -data /home/ramon/.config/Code/User/workspaceStorage/bff27f1fd2b939f7f1b979f2b764fe55/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2022-09-23 23:19:45.809'
+}
+{
+  message: 'Starting Java server with: /home/ramon/.vscode/extensions/redhat.java-1.10.0-linux-x64/jre/17.0.4-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:jni+resolve=off -javaagent:/home/ramon/.vscode/extensions/redhat.java-1.10.0-linux-x64/lombok/lombok-1.18.24.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/ramon/.config/Code/User/workspaceStorage/bff27f1fd2b939f7f1b979f2b764fe55/redhat.java -jar /home/ramon/.vscode/extensions/redhat.java-1.10.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/ramon/.config/Code/User/globalStorage/redhat.java/1.10.0/config_linux -data /home/ramon/.config/Code/User/workspaceStorage/bff27f1fd2b939f7f1b979f2b764fe55/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2022-09-23 23:19:46.033'
+}
+{
+  message: '[Error - 23:20:00] Connection to server got closed. Server will not be restarted.',
+  level: 'info',
+  timestamp: '2022-09-23 23:20:00.690'
+}

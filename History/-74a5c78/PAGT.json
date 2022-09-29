@@ -1,0 +1,60 @@
+// Coloque as suas associações de teclas neste arquivo para substituir os padrõesauto[]
+[
+    {
+        "key": "ctrl+'",
+        "command": "workbench.action.terminal.newInActiveWorkspace",
+        "when": "!terminalFocus"
+    },
+    {
+        "key": "ctrl+'",
+        "command": "workbench.action.terminal.focus",
+        "when": "!terminalFocus"
+    },
+    {
+        "key": "ctrl+shift+'",
+        "command": "workbench.action.terminal.killAll",
+        "when": "terminalFocus || !terminalFocus"
+    },
+    {
+        "key": "alt+b",
+        "command": "terminal.focus",
+    },
+    {
+        "key": "ctrl+'",
+        "command": "workbench.action.closePanel",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+w",
+        "command": "workbench.action.terminal.killEditor",
+        "when": "terminalEditorFocus && terminalFocus && terminalHasBeenCreated && resourceScheme == 'vscode-terminal' || terminalEditorFocus && terminalFocus && terminalProcessSupported && resourceScheme == 'vscode-terminal'"
+    },
+    {
+        "key": "ctrl+w",
+        "command": "-workbench.action.terminal.killEditor",
+        "when": "terminalEditorFocus && terminalFocus && terminalHasBeenCreated && resourceScheme == 'vscode-terminal' || terminalEditorFocus && terminalFocus && terminalProcessSupported && resourceScheme == 'vscode-terminal'"
+    },
+    {
+        "key": "alt+n",
+        "command": "explorer.newFile"
+    },
+    {
+        "key": "alt+m",
+        "command": "explorer.newFolder"
+    },
+    {
+        "key": "alt+q",
+        "command": "workbench.files.action.focusFilesExplorer",
+        "when": "!explorerFocus"
+    },
+    {
+        "key": "alt+q",
+        "command": "workbench.action.focusActiveEditorGroup",
+        "when": "!editorTextFocus"
+      },
+    {
+        "key": "ctrl+home",
+        "command": "-notebook.focusTop",
+        "when": "notebookEditorFocused && !inputFocus"
+    },
+]
